@@ -1,6 +1,6 @@
 {
   "name": "souzagab.com",
-  "version": "0.1.0-dev",
+  "version": "0.1.0",
   "description": "Personal Website",
   "repository": "https://github.com/souzagab/www",
   "author": "Gabriel S. <thesouzagab@gmail.com>",
@@ -10,7 +10,6 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-
   "devDependencies": {
     "vite": "^2.7.2",
     "vite-plugin-html": "^2.1.1",
